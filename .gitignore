@@ -3,7 +3,7 @@
 /package-lock.json
 
 # App
-/dist
+# /dist — committed for Vercel git-URL runtime installs (no npm publish)
 
 # Vercel
 .vercel
